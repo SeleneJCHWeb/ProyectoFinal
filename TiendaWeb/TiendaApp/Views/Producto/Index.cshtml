@@ -1,0 +1,30 @@
+﻿@model IEnumerable<TiendaOnline.PRODUCTO>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Ver Productos</h2>
+
+
+
+<div class="row">
+
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4">
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Nombre</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">@item.Descripcion</h6>
+                    <p class="card-text">@item.Precio</p>
+                    <a href="#" class="card-link">Card link</a>
+                    <a href="#" class="card-link">Another link</a>
+                </div>
+            </div>
+
+        </div>
+    }
+
+</div>
+

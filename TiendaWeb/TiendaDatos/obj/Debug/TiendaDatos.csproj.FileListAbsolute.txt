@@ -1,0 +1,15 @@
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\obj\Debug\TiendaDatos.csproj.AssemblyReference.cache
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\obj\Debug\TiendaDatos.csproj.CoreCompileInputs.cache
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\bin\Debug\TiendaDatos.dll.config
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\bin\Debug\TiendaDatos.dll
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\bin\Debug\TiendaDatos.pdb
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\bin\Debug\EntityFramework.dll
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\bin\Debug\EntityFramework.SqlServer.dll
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\bin\Debug\TiendaOnline.dll
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\bin\Debug\TiendaOnline.pdb
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\bin\Debug\TiendaOnline.dll.config
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\bin\Debug\EntityFramework.xml
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\bin\Debug\EntityFramework.SqlServer.xml
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\obj\Debug\TiendaDatos.csproj.CopyComplete
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\obj\Debug\TiendaDatos.dll
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaDatos\obj\Debug\TiendaDatos.pdb

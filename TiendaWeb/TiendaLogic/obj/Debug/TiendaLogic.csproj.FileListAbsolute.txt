@@ -1,0 +1,17 @@
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\bin\Debug\TiendaLogic.dll
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\bin\Debug\TiendaLogic.pdb
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\bin\Debug\EntityFramework.dll
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\bin\Debug\TiendaDatos.dll
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\bin\Debug\TiendaOnline.dll
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\bin\Debug\TiendaDatos.pdb
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\bin\Debug\TiendaDatos.dll.config
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\bin\Debug\TiendaOnline.pdb
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\bin\Debug\TiendaOnline.dll.config
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\bin\Debug\EntityFramework.xml
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\obj\Debug\TiendaLogic.csproj.AssemblyReference.cache
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\obj\Debug\TiendaLogic.csproj.CoreCompileInputs.cache
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\obj\Debug\TiendaLogic.csproj.CopyComplete
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\obj\Debug\TiendaLogic.dll
+E:\SISE_WEB\PROYECTO\PROYECTO\TiendaWeb\TiendaLogic\obj\Debug\TiendaLogic.pdb

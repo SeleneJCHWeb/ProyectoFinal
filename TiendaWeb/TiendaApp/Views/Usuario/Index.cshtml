@@ -1,0 +1,36 @@
+﻿@model IEnumerable<TiendaOnline.USUARIO>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Listado de Usuarios</h2>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Nombres</th>
+            <th>Apellidos</th>
+            <th>Correo</th>
+            <th>Contrasena</th>
+            <th>EsAdministrador</th>
+            <th>Activo</th>
+            <th>FechaRegistro</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.Nombres</td>
+            <td>@item.Apellidos</td>
+            <td>@item.Correo</td>
+            <td>@item.Contrasena</td>
+            <td>@item.EsAdministrador</td>
+            <td>@item.Activo</td>
+            <td>@item.FechaRegistro</td>
+        </tr>
+       
+    }
+        </tbody>
+    </table> 
+       
